@@ -9,7 +9,6 @@ There are three main statistics we can use to describe a distribution:
 $$\textrm{Mean} = \frac{\textrm{Sum of all values}}{\textrm{Number of values}}$$
 - **median:** the middle value in a sorted dataset with $n$ values (i.e., the 50th percentile)
 $$\textrm{Median}(x| n \textrm{ is odd}) = x_{(n+1)/2}\textrm{;}$$
-
 $$\textrm{Median}(x| n \textrm{ is even}) = \frac{\left(x_{(n/2)} + x_{((n/2) + 1)}\right)}{2}$$
 - **mode:** the most frequent value in a dataset
 
